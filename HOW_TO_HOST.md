@@ -21,15 +21,26 @@ Install Visual Studio Code https://code.visualstudio.com/download1
 Install the most recent stable version here: https://www.python.org/downloads/
 
 ## Step 04:
-### Download the code.
+### Putting the code into VSC.
 1. Go to bot's github page: https://github.com/GroenKonijn/jumperbot
 2. Press the 'Code' button, then press download zip.
-![image](https://github.com/GroenKonijn/jumperbot/assets/94995135/a067c358-ff5f-4e2e-81b7-411652c6a871)
-3. Go to your downloads and extract the zip file.
+![image](https://github.com/GroenKonijn/jumperbot/assets/94995135/471d2188-f585-458b-9ad4-f3b4865c8b55)
+3. Press Open Folder and locate the folder you downloaded.
+4. Double click the folder, and double click the folder inside that folder as well and then press 'Select folder'.
+You might this warning:
+![image](https://github.com/GroenKonijn/jumperbot/assets/94995135/40caee06-8348-47f4-8485-e2b9e6bffd0c)
+Just press Yes, I trust the authors
+5. Right click this panel on the top left and click 'New file'
+![image](https://github.com/GroenKonijn/jumperbot/assets/94995135/15596f4f-e71f-4fde-a113-d0dc1c8d946e)
+6. Give it the name 'params.json' without the quotation marks.
+{
+    "token" : "",
+    "prefix" : ";",
+    "is_dev" : [424616077805223956, 298835729901944834],
+    "admins" : [424616077805223956, 298835729901944834],
+    "banned" : [],
+    "trusted" : [],
+    "sim_timeout" : 100
+}
 
-## Step 05:
-### Put the code into VSC.
-1. Open VSC, you should see a screen like this: 
-![vsc](https://github.com/GroenKonijn/jumperbot/assets/94995135/b58bcfc8-3a1f-4846-bee8-23749ee8d90a)
-
-
+   
