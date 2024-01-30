@@ -27,6 +27,7 @@ Install the most recent stable version here: https://www.python.org/downloads/
 
 ![image](https://github.com/GroenKonijn/jumperbot/assets/94995135/471d2188-f585-458b-9ad4-f3b4865c8b55)
 4. Press Open Folder and locate the folder you downloaded.
+
 5. Double click the folder, and double click the folder inside that folder as well and then press 'Select folder'.
 You might this warning:
 
@@ -37,6 +38,7 @@ You might this warning:
 
 ![image](https://github.com/GroenKonijn/jumperbot/assets/94995135/15596f4f-e71f-4fde-a113-d0dc1c8d946e)
 7. Give it the name 'params.json' without the quotation marks.
+
 8. In the params.json file, write the following:
 
 ![image](https://github.com/GroenKonijn/jumperbot/assets/94995135/ffa3a417-6f6b-4088-b5cd-9b649a159423)
