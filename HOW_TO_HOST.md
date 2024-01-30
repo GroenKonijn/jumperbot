@@ -24,17 +24,21 @@ Install the most recent stable version here: https://www.python.org/downloads/
 ### Putting the code into VSC.
 1. Go to bot's github page: https://github.com/GroenKonijn/jumperbot
 2. Press the 'Code' button, then press download zip.
+
 ![image](https://github.com/GroenKonijn/jumperbot/assets/94995135/471d2188-f585-458b-9ad4-f3b4865c8b55)
-3. Press Open Folder and locate the folder you downloaded.
-4. Double click the folder, and double click the folder inside that folder as well and then press 'Select folder'.
+4. Press Open Folder and locate the folder you downloaded.
+5. Double click the folder, and double click the folder inside that folder as well and then press 'Select folder'.
 You might this warning:
+
 ![image](https://github.com/GroenKonijn/jumperbot/assets/94995135/40caee06-8348-47f4-8485-e2b9e6bffd0c)
 
    Just press Yes, I trust the authors
 6. Right click this panel on the top left and click 'New file'
+
 ![image](https://github.com/GroenKonijn/jumperbot/assets/94995135/15596f4f-e71f-4fde-a113-d0dc1c8d946e)
 7. Give it the name 'params.json' without the quotation marks.
 8. In the params.json file, write the following:
+
 ![image](https://github.com/GroenKonijn/jumperbot/assets/94995135/ffa3a417-6f6b-4088-b5cd-9b649a159423)
 
    You can leave the is_dev and admins keys empty or replace them with your Discord ID.
@@ -43,13 +47,15 @@ You might this warning:
 1. Go back to the developer portal https://discord.com/developers/docs/intro
 2. Press Applications, click on your bot, then click Bot on the left panel.
 3. Click Get Token or Reset Token if you need to reset it.
+
 ![image](https://github.com/GroenKonijn/jumperbot/assets/94995135/be27910e-39aa-425f-9c0d-5156290df74a)
-4. Copy paste it into the params.json file inbetween quotation marks.
+5. Copy paste it into the params.json file inbetween quotation marks.
 
 ## Step 05.
 ### Running the bot.
 1. Double click bot.py on the left panel.
 2. Press F5 to run the code, you should see something like this pop up:
+
 ![image](https://github.com/GroenKonijn/jumperbot/assets/94995135/8add04d4-227e-4035-82bc-9f675c9888d1)
 
    Press 'Python File' and you should be good to go!
