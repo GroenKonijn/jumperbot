@@ -29,7 +29,7 @@ Install the most recent stable version here: https://www.python.org/downloads/
 
 4. Press Open Folder and locate the folder you downloaded.
 5. Double click the folder, and double click the folder inside that folder as well and then press 'Select folder'.
-You might this warning:
+You might get this warning:
 
 ![image](https://github.com/GroenKonijn/jumperbot/assets/94995135/40caee06-8348-47f4-8485-e2b9e6bffd0c)
 
