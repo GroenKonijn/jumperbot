@@ -26,8 +26,8 @@ Install the most recent stable version here: https://www.python.org/downloads/
 2. Press the 'Code' button, then press download zip.
 
 ![image](https://github.com/GroenKonijn/jumperbot/assets/94995135/471d2188-f585-458b-9ad4-f3b4865c8b55)
-4. Press Open Folder and locate the folder you downloaded.
 
+4. Press Open Folder and locate the folder you downloaded.
 5. Double click the folder, and double click the folder inside that folder as well and then press 'Select folder'.
 You might this warning:
 
