@@ -53,7 +53,7 @@ You might get this warning:
 
 ![image](https://github.com/GroenKonijn/jumperbot/assets/94995135/be27910e-39aa-425f-9c0d-5156290df74a)
 
-4. Copy paste it into the params.json file inbetween quotation marks.
+4. Copy paste it into the params.json file between the quotation marks.
 
 ## Step 05.
 ### Running the bot.
