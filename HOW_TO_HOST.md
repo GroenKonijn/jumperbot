@@ -17,5 +17,12 @@
 Install Visual Studio Code https://code.visualstudio.com/download1
 
 ## Step 03:
-### Install python.
+### Install Python.
 Install the most recent stable version here: https://www.python.org/downloads/
+
+## Step 04:
+### Putting the code into VSC.
+1. Go to bot's github page: https://github.com/GroenKonijn/jumperbot
+2. Press the 'Code' button, then press download zip.
+![image](https://github.com/GroenKonijn/jumperbot/assets/94995135/471d2188-f585-458b-9ad4-f3b4865c8b55)
+
