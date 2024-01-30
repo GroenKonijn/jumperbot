@@ -14,4 +14,8 @@
 ## Step 02:
 ### Install an IDE.
 #### You can use any IDE but for this guide I will use VSC because that's what I'm using.
-1. Install Visual Studio Code https://code.visualstudio.com/download
+Install Visual Studio Code https://code.visualstudio.com/download1
+
+## Step 03:
+### Install python.
+Install the most recent stable version here: https://www.python.org/downloads/
