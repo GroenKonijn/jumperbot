@@ -34,6 +34,7 @@ You might get this warning:
 ![image](https://github.com/GroenKonijn/jumperbot/assets/94995135/40caee06-8348-47f4-8485-e2b9e6bffd0c)
 
    Just press Yes, I trust the authors
+
 6. Right click this panel on the top left and click 'New file'
 
 ![image](https://github.com/GroenKonijn/jumperbot/assets/94995135/15596f4f-e71f-4fde-a113-d0dc1c8d946e)
