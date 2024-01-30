@@ -37,8 +37,8 @@ You might this warning:
 6. Right click this panel on the top left and click 'New file'
 
 ![image](https://github.com/GroenKonijn/jumperbot/assets/94995135/15596f4f-e71f-4fde-a113-d0dc1c8d946e)
-7. Give it the name 'params.json' without the quotation marks.
 
+7. Give it the name 'params.json' without the quotation marks.
 8. In the params.json file, write the following:
 
 ![image](https://github.com/GroenKonijn/jumperbot/assets/94995135/ffa3a417-6f6b-4088-b5cd-9b649a159423)
@@ -51,6 +51,7 @@ You might this warning:
 3. Click Get Token or Reset Token if you need to reset it.
 
 ![image](https://github.com/GroenKonijn/jumperbot/assets/94995135/be27910e-39aa-425f-9c0d-5156290df74a)
+
 5. Copy paste it into the params.json file inbetween quotation marks.
 
 ## Step 05.
