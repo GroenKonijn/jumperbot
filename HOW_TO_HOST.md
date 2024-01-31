@@ -56,12 +56,14 @@ You might get this warning:
 4. Copy paste it into the params.json file between the quotation marks.
 
 ## Step 05.
-### Installing the required modules.
+### Installing the required libraries.
 
 ![image](https://github.com/GroenKonijn/jumperbot/assets/94995135/305489b0-1cc4-4fd7-9b65-76a242055ab1)
 
 1. In this field, type 'pip install numpy' and press enter.
-2. When it finished installing, in the same field type 'pip install
+2. When it is finished installing, in the same field type 'pip install evalidate' and press enter.
+3. When it is finished installing, in the same field type 'pip install discord' and press enter.
+4. After it's finished, you should be good to go.
 
 ## Step 06.
 ### Running the bot.
@@ -70,7 +72,7 @@ You might get this warning:
 
 ![image](https://github.com/GroenKonijn/jumperbot/assets/94995135/8add04d4-227e-4035-82bc-9f675c9888d1)
 
-   Press 'Python File' and you should be good to go!
+   Press 'Python File' and it should be running.
 
 
 ### If you have any questions feel free to msg me on Discord: 1414_
