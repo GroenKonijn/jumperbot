@@ -56,6 +56,14 @@ You might get this warning:
 4. Copy paste it into the params.json file between the quotation marks.
 
 ## Step 05.
+### Installing the required modules.
+
+![image](https://github.com/GroenKonijn/jumperbot/assets/94995135/305489b0-1cc4-4fd7-9b65-76a242055ab1)
+
+1. In this field, type 'pip install numpy' and press enter.
+2. When it finished installing, in the same field type 'pip install
+
+## Step 06.
 ### Running the bot.
 1. Double click bot.py on the left panel.
 2. Press F5 to run the code, you should see something like this pop up:
